@@ -95,7 +95,7 @@ onMounted(() => {
           <div bg-green rounded-full h-3 w-3 />
         </div>
         <div text-4 text-white tracking-widest>
-          笨蛋依凌 / Hanahime
+          副标题
         </div>
       </div>
     </section>
