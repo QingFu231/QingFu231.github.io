@@ -19,20 +19,20 @@ const data = reactive({
   ],
   navLinks: [{
     name: 'Blog',
-    link: 'https://blog.hanahime.online',
+    link: 'http://8.138.37.25:4859',
   }, {
     name: 'Index',
-    link: 'https://HanaKDev.github.io',
+    link: 'https://QingFu231.github.io',
   }],
 
   myProjects: [{
     name: 'Index',
     description: '个人简介、主页、引导页',
-    link: 'http://127.0.0.1',
+    link: 'http://8.138.37.25:4302',
   }, {
     name: 'Blog',
     description: '个人博客，学习&随笔',
-    link: 'http://127.0.0.1',
+    link: 'http://8.138.37.25:4859',
   }, {
     name: 'undefined',
     description: '喵喵喵~ 暂时没有别的东西 wv',
@@ -41,19 +41,17 @@ const data = reactive({
 
   socialLinks: [{
     icon: '<i i-ant-design-github-outlined />',
-    link: 'https://github.com/HanaKDev',
+    link: 'https://github.com/Qingfu231',
     label: 'Github',
-  }, {
+  },
+   {
     icon: '<i i-ant-design-x-outlined />',
-    link: 'https://twitter.com/',
+    link: 'https://twitter.com/xiangyu231',
     label: 'Twitter',
-  }, /* {
-    icon: '<i i-ant-design-youtube-outlined />',
-    link: 'https://youtube.com/@sun0225SUN',
-    label: 'YouTube',
-  }, */ {
+  }, 
+  {
     icon: '<i i-ant-design-bilibili-outlined />',
-    link: 'https://space.bilibili.com/343490/',
+    link: 'https://space.bilibili.com/1571669482',
     label: 'Bilibili',
   }],
 })
@@ -95,7 +93,7 @@ onMounted(() => {
           <div bg-green rounded-full h-3 w-3 />
         </div>
         <div text-4 text-white tracking-widest>
-          副标题
+          Hoshino
         </div>
       </div>
     </section>
@@ -108,13 +106,13 @@ onMounted(() => {
       <div mx-10 mb-10 flex justify-between>
         <div class="text-white/80">
           <p leading-10>
-            喵喵喵~ 你好，这里是是鸾依凌~
+            喵喵喵~ 你好，这里是是Hoshino~
           </p>
           <p leading-10>
-            热爱编程、读书、白天睡觉。
+            热爱跑路、睡觉、不干正事。
           </p>
           <p leading-10>
-            喜欢计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+            喜欢计算机科学和 IT 互联网事业，希望能成为一名优秀的咸鱼。
           </p>
           <p leading-10>
             正在用代码小魔法，让这个世界变得更加可爱和美好。通过巧妙地重用和扩展代码，构建出更美好的的数字世界。喵~
@@ -177,12 +175,12 @@ onMounted(() => {
       </div>
       <div class="text-white/60" mt-2 f-c-c gap-4>
         <div>
-          © 2019
+          © 2024
           <span id="yearSpan" />
-          鸾依凌
+          Hoshino
         </div>
         <div text-pink-800>
-          <a href="https://beian.miit.gov.cn">ICP: 待备案</a>
+          <a href="http://8.138.37.25:5244/d/01/1.jpg?sign=ouxx-1QOCLXCHqqmIK4PmjTWfQmxa_pqn-S0FlT9nE4=:0">ICP: 待备案</a>
         </div>
       </div>
     </footer>
