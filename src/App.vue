@@ -35,7 +35,7 @@ const data = reactive({
     link: 'http://8.138.37.25:4859',
   }, {
     name: 'undefined',
-    description: '喵喵喵~ 暂时没有别的东西 wv',
+    description: '喵喵喵~ 暂时没有别的东西 ₍˄·͈༝·͈˄*₎◞ ̑̑',
     link: './',
   }],
 
